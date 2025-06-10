@@ -1,7 +1,0 @@
-#Ignorar archivos .db
-*.db
-*.log
-
-#Ignore directory with the names target or bin
-target/
-bin/
